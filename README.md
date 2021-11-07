@@ -5,3 +5,5 @@ A dockerized laravel application
 * make
 * docker
 * docker-compose
+## Installation
+Download the repo as ZIP file or clone into a directory 
