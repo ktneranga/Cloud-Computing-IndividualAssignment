@@ -16,3 +16,7 @@ A dockerized laravel application
 | shell         | Logs in to the Docker Container for the App.                                                |
 | up            | Starts the development environment.                                                         |
 | up-f          | Starts the development environment in foreground, so you can view logs from the containers. |
+## Extending
+You can add more services to ```docker-compose.yml``` and add more commands to Dockerfiles to customize this to fit your project.
+## Legal
+Copyrights (c) 2021. Neranga K.T-IT18256888
